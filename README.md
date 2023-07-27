@@ -112,6 +112,7 @@ designs.
 
 This white paper delves deeper into our unique proposition, outlining the technology behind our
 tokenized apparel, our business model, our commitment to sustainability, and our vision for the future.
+
 Join us as we navigate this exciting journey at the intersection of fashion, technology, and sustainability.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
