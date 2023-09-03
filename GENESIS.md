@@ -14,8 +14,9 @@ GENESIS is where we plant the flag, but trust me, we're mapping out new worlds. 
 "And don't sleep on our commitment to doing right by the planet. Sustainability isn't a buzzword; it's woven into the fabric of everything we do.
 From recycling programs to leveraging blockchain for transparency, we're all about that ethical life.
 So, whether you're in it for the fashion, the tech, or making a better world, GENESIS is your invite to the NODEWEAR revolution.
-
-
+HAUSEOFCOOL
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Roadmap-MMXXIII
 V2
 "Hello, this is MRRABBITCOOL. Allow me to introduce GENESIS, the inaugural collection from NODEWEAR.
 With a blend of luxury fashion and blockchain technology, each garment is not only aesthetically pleasing but also a unique digital asset you can truly own.
@@ -31,8 +32,9 @@ Last but not least, our ethical commitment is non-negotiable.
 We employ recycling initiatives and leverage blockchain technology to ensure transparency and sustainability.
 Whether your interest lies in fashion, technology, or social responsibility, GENESIS is the beginning of a revolutionary journey in the fashion industry.
 Thank you for considering NODEWEAR."
-
-
+HAUSEOFCOOL
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Roadmap-MMXXIII
 *Ideas, concepts, artwork, and collaborations will not be reproduced or replicated for 2023.
 Blockchains currently developing NODEWEAR are Canary Network (SGB) and Flare Network (FLR).
 XRPL (XRP) will be intergrated in NODEWEAR infurstructure.
