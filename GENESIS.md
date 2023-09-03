@@ -14,6 +14,7 @@ GENESIS is where we plant the flag, but trust me, we're mapping out new worlds. 
 "And don't sleep on our commitment to doing right by the planet. Sustainability isn't a buzzword; it's woven into the fabric of everything we do.
 From recycling programs to leveraging blockchain for transparency, we're all about that ethical life.
 So, whether you're in it for the fashion, the tech, or making a better world, GENESIS is your invite to the NODEWEAR revolution.
+
 HAUSEOFCOOL
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Roadmap-MMXXIII
@@ -32,6 +33,7 @@ Last but not least, our ethical commitment is non-negotiable.
 We employ recycling initiatives and leverage blockchain technology to ensure transparency and sustainability.
 Whether your interest lies in fashion, technology, or social responsibility, GENESIS is the beginning of a revolutionary journey in the fashion industry.
 Thank you for considering NODEWEAR."
+
 HAUSEOFCOOL
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Roadmap-MMXXIII
