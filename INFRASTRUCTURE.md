@@ -20,4 +20,7 @@ NODEWEAR's infrastructure is built upon a unique blend of fashion industry exper
 
 **10. Compliance and Regulatory Monitoring**: An internal team is tasked with keeping up-to-date with regulatory changes related to blockchain and fashion merchandise to ensure that NODEWEAR remains compliant.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This multi-layered infrastructure allows NODEWEAR to offer a rich, secure, and interactive experience to its users while driving innovation in the fusion of fashion and technology.
+
+*This file will be referenced for changes when updating future Roadmaps. This includes infurstructure expansions; improvements of the technology; and collaborations and parnterships.
