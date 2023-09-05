@@ -25,6 +25,6 @@ Canary Network - SGB: https://songbird-explorer.flare.network/
 
 Flare Network - FLR: https://flare-explorer.flare.network/
 
-Future development of NODEWEAR's use of blockchains includes blockchain validation; estabilshing Time-Series Oralces; Node Infurstructures. 
+Future development of NODEWEAR's use of blockchains includes Network Validation; Estabilshing Time-Series Oralces; Node Infurstructures. 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 *This file will be referenced for changes when updating future Roadmaps. This includes infurstructure expansions; improvements of the technology; and collaborations and parnterships.
