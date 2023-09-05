@@ -1,4 +1,5 @@
 V1
+
 "Hey, it's MRRABBITCOOL! NODEWEAR in GENESIS is where it all began, man.
 Luxury threads meet blockchain, making each piece not just dope to wear, but also a digital treasure you own.
 Sustainability? Check. Authenticity? 100%. It's not just fashion, it's the future!"
@@ -16,9 +17,10 @@ From recycling programs to leveraging blockchain for transparency, we're all abo
 So, whether you're in it for the fashion, the tech, or making a better world, GENESIS is your invite to the NODEWEAR revolution.
 
 HAUSEOFCOOL
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Roadmap-MMXXIII
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 V2
+
 "Hello, this is MRRABBITCOOL. Allow me to introduce GENESIS, the inaugural collection from NODEWEAR.
 With a blend of luxury fashion and blockchain technology, each garment is not only aesthetically pleasing but also a unique digital asset you can truly own.
 Our commitment to sustainability and authenticity is unequivocal.
@@ -35,9 +37,12 @@ Whether your interest lies in fashion, technology, or social responsibility, GEN
 Thank you for considering NODEWEAR."
 
 HAUSEOFCOOL
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Roadmap-MMXXIII
-*Ideas, concepts, artwork, and collaborations will not be reproduced or replicated for 2023.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+*This file will be referenced for changes when updating future Roadmaps.
+This includes infurstructure expansions; improvements of the technology; and collaborations and parnterships.
+
+**Ideas, concepts, artwork, and collaborations will not be reproduced or replicated for 2023.
 Blockchains currently developing NODEWEAR are Canary Network (SGB) and Flare Network (FLR).
 XRPL (XRP) will be intergrated in NODEWEAR infurstructure.
 Continuation of the Roadmap will be updated on the branch of Roadmap MMXXIV.
