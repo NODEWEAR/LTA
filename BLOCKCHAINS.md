@@ -15,8 +15,15 @@ Flare Network
 
 Both networks aim to work in tandem to improve the scalability, security, and overall functionality of the blockchain space they operate in.
 SGB is utilzed as the test enviroment for NODEWEAR. FLR is utilzed for final interations and premium releases.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-SGB: https://songbird-explorer.flare.network/
+Medium Article: https://medium.com/flarenetwork
 
-FLR: https://flare-explorer.flare.network/
+Documentation: https://docs.flare.network/
+
+Canary Network - SGB: https://songbird-explorer.flare.network/
+
+Flare Network - FLR: https://flare-explorer.flare.network/
+
+Future development of NODEWEAR's use of blockchains includes blockchain validation; estabilshing Time-Series Oralces; Node Infurstructures. 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
