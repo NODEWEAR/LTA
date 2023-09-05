@@ -14,7 +14,7 @@ Flare Network
 - **Goal**: To create a robust, interoperable, and community-driven blockchain network.
 
 Both networks aim to work in tandem to improve the scalability, security, and overall functionality of the blockchain space they operate in.
-
+SGB is utilzed as the test enviroment for NODEWEAR. FLR is utilzed for final interations and premium releases.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 SGB: https://songbird-explorer.flare.network/
