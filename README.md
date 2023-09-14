@@ -57,9 +57,7 @@ This whitepaper presents NODEWEAR, an innovative platform that merges fashion an
    - Minting and Edition Tracking
    - Metadata Retrieval
    - Event Emission
-==================================================================================================================================================================
-
-Certainly, here's the updated section for the "Introduction" in the NODEWEAR whitepaper:
+===================================================================================================================================================================================================================
 
 ## Introduction
 
