@@ -57,9 +57,6 @@ This whitepaper presents NODEWEAR, an innovative platform that merges fashion an
    - Minting and Edition Tracking
    - Metadata Retrieval
    - Event Emission
-==================================================================================================================================================================
-
-Certainly, here's the updated section for the "Introduction" in the NODEWEAR whitepaper:
 
 ## Introduction
 
@@ -77,7 +74,8 @@ At NODEWEAR, we're committed to pushing the boundaries of what fashion can be. W
 
 Join us on this journey as we introduce you to the world of Luxury Tokenized Apparel (LTA) and redefine the future of fashion on the Songbird blockchain. Together, we'll shape a new era where fashion is not just worn; it's experienced, celebrated, and cherished in a digital dimension.
 
-[Visit NODEWEAR](https://www.nodewear.com)
+[Visit NODEWEAR](https://www.nodewear.xyz)
+
 
 ### Legal Disclaimer
 
